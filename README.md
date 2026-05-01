@@ -12,17 +12,17 @@ An interactive **DSA Visualizer Web App** that helps students understand Data St
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/DsaVisualizer/main/home.png" width="45%">
-  <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/DsaVisualizer/main/2.png" width="45%">
+ <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/DsaVisualizer/main/images/home.png">
+ <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/DsaVisualizer/main/images/2.png">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/DsaVisualizer/main/3.png" width="45%">
-  <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/DsaVisualizer/main/4.png" width="45%">
+  <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/DsaVisualizer/main/images/3.png">
+  <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/DsaVisualizer/main/images/4.png">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/DsaVisualizer/main/5.png" width="60%">
+<img src="https://raw.githubusercontent.com/abhay-singh-bisht12/DsaVisualizer/main/images/5.png">
 </p>
 
 ---
@@ -51,4 +51,4 @@ An interactive **DSA Visualizer Web App** that helps students understand Data St
 
 ---
 
-## 📂 Project Structure
+
