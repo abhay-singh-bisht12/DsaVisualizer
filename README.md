@@ -5,7 +5,7 @@ An interactive **DSA Visualizer Web App** that helps students understand Data St
 ---
 
 ## 🌐 Live Demo
-👉 https://dsa-visualizer-git-main-abhay-singh-bisht12s-projects.vercel.app/
+👉 https://dsa-visualizer-six-tau.vercel.app/
 
 ---
 
